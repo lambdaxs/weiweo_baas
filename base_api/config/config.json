@@ -1,0 +1,26 @@
+{
+  "sms":{
+    "luosimao":{
+      "api_key":"6f693bc392d5ac0755a2db850f1b9925",
+      "sign":"那木哒"
+    }
+  },
+  "email":{
+    "from":"Lambda <18686535083@163.com>",
+    "smtp":{
+      "host":"smtp.163.com",
+      "port":25,
+      "auth":{
+        "user":"18686535083@163.com",
+        "pass":"xs1994"
+      }
+    },
+    "sign":"那木哒"
+  },
+  "qiniu":{
+    "access_key":"2pHub3asMB-6My8BUZ9a9hvk0VyqR2pXT1styUqg",
+    "secret_key":"keRMYY41YrR7XSKkLzvaURLyln_Fg8UYZY68skaR",
+    "bucket":"weiwo",
+    "url_pre":"http://oph9t4bnq.bkt.clouddn.com/"
+  }
+}
